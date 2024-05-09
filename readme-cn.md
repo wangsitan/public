@@ -2,7 +2,7 @@
 
 FC/NES Hack
 
-幽游白书-爆斗暗黑武术会: 无需条码，新增技能
+_幽游白书-爆斗暗黑武术会_: **无需条码，新增技能**
 
 
 
@@ -73,7 +73,7 @@ FC/NES Hack
 # 捐助
 
 如果您愿意捐助，可以通过以下方式:
-- PayPal: wangsitan7@gmail.com  https://paypal.me/wangsitan
+- PayPal: https://paypal.me/wangsitan
 - 支付宝: wangsitan@aliyun.com
 
 非常感谢您的支持 =)

@@ -2,7 +2,7 @@
 
 FC/NES Hack
 
-Yuu Yuu Hakusho - Bakutou Ankoku Bujutsu Kai: No Barcode, New Skills
+_Yuu Yuu Hakusho - Bakutou Ankoku Bujutsu Kai_: **No Barcode, New Skills**
 
 
 
@@ -56,7 +56,7 @@ Yuu Yuu Hakusho - Bakutou Ankoku Bujutsu Kai: No Barcode, New Skills
 
 # Contact Information
 
-- Email: wangsitan7@gmail.com
+- Email: wangsitan@aliyun.com
 
 
 
@@ -70,7 +70,7 @@ Yuu Yuu Hakusho - Bakutou Ankoku Bujutsu Kai: No Barcode, New Skills
 # Donate
 
 If you would like to donate:
-- PayPal: wangsitan7@gmail.com  https://paypal.me/wangsitan
+- PayPal: https://paypal.me/wangsitan
 - Alipay: wangsitan@aliyun.com
 
 Thank you very much for your support =)
