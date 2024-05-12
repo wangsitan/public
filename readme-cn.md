@@ -10,7 +10,7 @@ _幽游白书-爆斗暗黑武术会_: **无需条码，新增技能**
 
 - 按键选人。在需要选人时按SELECT会显示数字（角色ID）。按方向键调整ID。可以按A选择ID对应的角色，也可以按START随机选（判决屋不能随机）。选人时按键不区分1P/2P手柄。
 
-- 在完整技能（原版中用条码选人得到的角色技能可能不完整）基础之上增加了很多新技能，详见character_list。
+- 在完整技能（原版中用条码选人得到的角色技能可能不完整）基础之上增加了很多新技能，详见character_list。新增技能不止玩家可用，AI也可用。
 
 - 对 ↓(蓄)↑+A 触发的技能增加了其它的按键绑定，原 ↓(蓄)↑+A 依然有效。
 
@@ -63,16 +63,17 @@ _幽游白书-爆斗暗黑武术会_: **无需条码，新增技能**
 
 # 个人页面
 
+- RomHacking: https://www.romhacking.net/community/2188
 - YouTube: https://www.youtube.com/@wangsitan7
-- Bilibili: https://space.bilibili.com/4609306
 - Patreon: https://www.patreon.com/wangsitan
+- Bilibili: https://space.bilibili.com/4609306
 - 爱发电: https://afdian.net/a/wangsitan
 
 
 
 # 捐助
 
-如果您愿意捐助，可以通过以下方式:
+如果您有意捐助，可以通过以下方式:
 - PayPal: https://paypal.me/wangsitan
 - 支付宝: wangsitan@aliyun.com
 
