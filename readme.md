@@ -8,7 +8,7 @@ _Yuu Yuu Hakusho - Bakutou Ankoku Bujutsu Kai_: **No Barcode, New Skills**
 
 # Description
 
-- Use buttons to select character. When needed, press SELECT to display character ID. Press the arrow keys to adjust the ID. Player can select the character corresponding to the ID by pressing A, or randomly select it by pressing START (random is not available in the judgment room). During selection, the buttons do not distinguish between 1P/2P joypads.
+- Use buttons to select character. When needed, press SELECT to display character ID. Press the arrow keys to adjust the ID. Player can select the character corresponding to the ID by pressing A, or randomly select it by pressing B (random is not available in the judgment room). During selection, the buttons do not distinguish between 1P/2P joypads.
 
 - Many new skills have been added on top of the complete original skills (the character skills obtained through barcode input in the original version may be incomplete). See character_list for detail. The new skills are not only available to players, but also to AI.
 
@@ -39,7 +39,7 @@ _Yuu Yuu Hakusho - Bakutou Ankoku Bujutsu Kai_: **No Barcode, New Skills**
 - LEFT:     ID -1
 - RIGHT:    ID +1
 - A:        Confirm
-- START:    Randomly select a character
+- B:        Randomly select a character
 
 
 
